@@ -1,0 +1,22 @@
+* {
+ text-align: center;
+ background-color: #7AA1D2;
+ color: black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Piano {
+    color: black;
+    position: absolute;
+    right: 620px;
+    font-size: 40px;
+}
+
+#Learn {
+    color: black;
+    position: absolute;
+    left: 620px;
+    font-size: 40px;
+    padding: 1rem 0;
+}
+
